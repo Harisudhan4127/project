@@ -1,9 +1,20 @@
 git status
 git clone clone_link
 git add file_name
-cd file
 git commit -m " "
-git push origin
+git push origin -> git local folder to update website
+git pull -> git push origin or update local file
+git init -> git init or create new repository
+git remote add origin clone_link
+git branch -> git branch find the branch file_name
+git branch -M main -> raname the branch
+git branch -a -> git find all branches 
+git checkout branch_name -> git checkout goto other branch
 create file -> git add file_name -> git commit -m " " -> git push origin
-insert -> add -> commit ->push ->
-git pull #1 -> git push origin or update local file
+
+Insert Any file -> add -> commit ->push
+
+Any modifications -> add -> commit ->push
+
+cd file -> goto that folder
+cd .. -> one step back to folder
