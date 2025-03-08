@@ -1,3 +1,8 @@
 git status
 git clone clone_link
 git add file_name
+cd file
+git commit -m " "
+git push origin
+create file -> git add file_name -> git commit -m " " -> git push origin
+insert -> add -> commit ->push ->
